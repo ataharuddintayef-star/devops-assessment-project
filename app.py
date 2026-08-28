@@ -1,4 +1,3 @@
-Python
 def main():
     print("Public Sector Legacy Modernisation Service is Running Successfully!")
 
